@@ -19,9 +19,10 @@ table {
 .header h1{font-size: 2.6rem;font-weight: 900;padding: 0 0 1.0rem 0;}
 .header p{color: #969696;font-size: 14px;}
 
-.photo > div, .footer {max-width: 500px; margin: 0 auto;}
-.photo {padding-bottom: 50px;}
+.photo > div, .footer {max-width: 500px; margin: 0 auto;padding: 0 1.0rem;}
+.photo {padding-bottom: 2rem;}
 .photo > div img{width: 100%;}
+.photo > div p{color: #868686;}
 .photo > div h2{font-size: 24px;padding: 15px 0 10px 0;}
 
-.footer {text-align: center;padding-bottom: 50px;color: #868686;}
+.footer {text-align: center;padding-bottom: 4rem;color: #868686;}
