@@ -23,9 +23,9 @@ table {
 .photo > div, .footer {max-width: 500px; margin: 0 auto;padding: 0 1.0rem;}
 .photo {padding-bottom: 2rem;}
 .photo > div img{width: 100%; background-color: #868686; display: block;}
-.photo > div p{color: #868686;background-color: #ececec; padding: 5px 8px; line-height: 18px;}
-.photo > div h2{font-size: 24px;padding: 15px 0 10px 0;}
-.photo > div h2 sup {font-weight: normal;font-size: 0.1rem;color: #868686;}
+.photo > div p{color: #868686;background-color: #ececec; padding: 0.6rem 0.5rem; line-height: 1.3rem;}
+.photo > div h2{font-size: 2.4rem;padding: 0.6rem 0  0.5rem 0;}
+.photo > div h2 sup {font-weight: normal;font-size: 1.2rem;color: #868686;}
 
 .footer {text-align: center;padding-bottom: 4rem;color: #868686;}
 .footer a {color: #868686; text-decoration: none;}
