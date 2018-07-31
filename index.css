@@ -20,9 +20,9 @@ table {
 .header h1 rt{font-weight: normal; color: #666;}
 .header p{color: #969696;font-size: 14px;}
 
-.photo > div, .footer {max-width: 500px; margin: 0 auto;padding: 0 1.0rem;}
+.photo > div, .footer {max-width: 500px; margin: 0 auto;padding: 0 1.0rem 1.5rem 1.0rem;}
 .photo {padding-bottom: 2rem;}
-.photo > div img{width: 100%; background-color: #868686; display: block;}
+.photo > div img{width: 100%; background-color: #dcdcdc; display: block; min-height: 120px;}
 .photo > div p{color: #868686;background-color: #ececec; padding: 0.6rem 0.5rem; line-height: 1.3rem;}
 .photo > div h2{font-size: 2.4rem;padding: 0.6rem 0  0.5rem 0;}
 .photo > div h2 sup {font-weight: normal;font-size: 1.2rem;color: #868686;}
