@@ -15,7 +15,7 @@ table {
   height: 80%;
   text-align: center;
 }
-.header img.avatar{height: 10rem;width: 10rem;margin: 0 0 1.0rem 0;border-radius: 50%;}
+.header img.avatar{height: 10rem;margin: 0 0 1.0rem 0;}
 .header h1{font-size: 2.6rem;font-weight: 900;padding: 0 0 1.0rem 0;}
 .header h1 rt{font-weight: normal; color: #666;}
 .header p{color: #969696;font-size: 14px;}
