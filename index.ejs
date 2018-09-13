@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <title>Kenny's Baby</title>
+</head>
+<body>
+  <table class="header">
+    <tbody>
+      <tr>
+        <td>
+          <img class="avatar" alt="王昭然" src="./images/avatar.png">
+          <h1>
+            <ruby>王<rt>wáng</rt></ruby>
+            <ruby>昭<rt>zhāo</rt></ruby>
+            <ruby>然<rt>rán</rt></ruby>
+          </h1>
+          <p>2018年7月30日(戊戌年六月十八 丑时 01:53)</p>
+          <p>3700g / 50cm <span id="age"></span></p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="photo">
+    <% datas.forEach(function(item, index) { %>
+      <div>
+        <h2>Day <%= (datas.length - index) + lastNum %> <sup><%= item.date %></sup></h2>
+        <% item.image && item.image.forEach(function(image) {%>
+        <div>
+          <img alt="王昭然" class="lazyload" data-src="<%= image.path %>" />
+          <% if (image.description) { %>
+          <p><%=image.description%></p>
+          <% } %>
+        </div>
+        <% }) %>
+      </div>
+    <% }) %>
+  </div>
+  <div class="paging">
+    <% for(let i = 0; i < totalPage; i++) {
+      const className = i === page ? 'active' : '';
+      %><a class="<%=className%>" href="./index<%=(i === 0 ? '' : i)%>.html"><%=i+1%></a><% } %>
+  </div>
+  <div class="footer">
+    © <a target="_blank" href="https://jaywcjlove.github.io/">Kenny Wong</a> 2018-present
+  </div>
+  <script src="lazysizes.min.js" async=""></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+dist
+node_modules
+.DS_Store
+.cache
+.vscode
+
+*.bak
+*.tem
+*.temp
+#.swp
+*.*~
+~*.*

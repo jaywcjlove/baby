@@ -1,0 +1,27 @@
+{
+  "name": "baby",
+  "version": "1.0.0",
+  "description": "The gift for Kenny's baby",
+  "dependencies": {
+    "colors-cli": "^1.0.18",
+    "ejs": "^2.6.1",
+    "fs-extra": "^7.0.0",
+    "gh-pages": "^1.2.0",
+    "html-minifier": "^3.5.20"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "start": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaywcjlove/baby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaywcjlove/baby/issues"
+  },
+  "homepage": "https://github.com/jaywcjlove/baby#readme"
+}

@@ -5,10 +5,7 @@ body,html{
   font-family: Avenir Next,PingFang SC,Hiragino Sans GB,Droid Sans Fallback,Microsoft YaHei,sans-serif;
 }
 ul,li {list-style: none;}
-table {
-  border-spacing: 0;
-  border-collapse: collapse;
-}
+table {border-spacing: 0; border-collapse: collapse;}
 .header{
   position: relative;
   width: 100%;
@@ -30,3 +27,10 @@ table {
 .footer {text-align: center;padding-bottom: 4rem;color: #868686;}
 .footer a {color: #868686; text-decoration: none;}
 .footer a:hover {text-decoration: underline;}
+
+.paging {text-align: center;padding-bottom: 30px;user-select: none;}
+.paging a.active {pointer-events: none;cursor: not-allowed;background-color: #ececec;color: #767676;}
+.paging a {border: 1px solid #ddd;border-left: 0;text-decoration: none; line-height: 29px;height: 28px; font-size: 14px; padding: 0 10px; display: inline-block;}
+.paging a:hover {background-color: #f6f6f6;}
+.paging a:first-child {border-left: 1px solid #d4d4d4; border-radius: 4px 0 0 4px;}
+.paging a:last-child {border-radius: 0 4px 4px 0;}
