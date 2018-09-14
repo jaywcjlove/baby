@@ -34,10 +34,8 @@ dataResult.forEach((item, index) => {
     },
     {},
     (err, str) => {
-      const file = path.join(
-        distPaht,
-        `index${index === 0 ? "" : index}.html`
-      );
+      const file = path.join(distPaht, index === 0 ? "index.html" : `${index}.html`);
+        // `index${index === 0 ? "" : index}.html`
       const minifyHtml = minify(str, { collapseWhitespace: true });
       console.log(" Created -> " + file.green);
       fs.outputFileSync(file, minifyHtml);

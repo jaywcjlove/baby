@@ -46,7 +46,8 @@
   <div class="paging">
     <% for(let i = 0; i < totalPage; i++) {
       const className = i === page ? 'active' : '';
-      %><a class="<%=className%>" href="./index<%=(i === 0 ? '' : i)%>.html"><%=i+1%></a><% } %>
+      const href = i === 0 ? './' : './' + i + '.html';
+      %><a class="<%=className%>" href="<%=href%>"><%=i+1%></a><% } %>
   </div>
   <div class="footer">
     © <a target="_blank" href="https://jaywcjlove.github.io/">Kenny Wong</a> 2018-present
