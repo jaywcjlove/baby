@@ -10,7 +10,7 @@
     "html-minifier": "^3.5.20"
   },
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "deploy": "npm run start && gh-pages -d dist",
     "start": "node build.js"
   },
   "repository": {
