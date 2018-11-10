@@ -3,7 +3,10 @@
     "date": "2018-11-10",
     "image": [
       {
-        "path": "images/day104-1.jpg"
+        "path": "images/day104-1.jpg",
+        "description": "奶奶生日🎂"
+      },{
+        "path": "images/day104-2.jpg"
       }
     ]
   },{
