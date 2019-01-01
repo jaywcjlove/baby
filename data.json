@@ -1,17 +1,18 @@
 [
   {
+    "date": "2019-01-01",
+    "image": [
+      { "path": "images/day156.jpg" }
+    ]
+  },{
     "date": "2018-12-31",
     "image": [
-      {
-        "path": "images/day155.jpg"
-      }
+      { "path": "images/day155.jpg" }
     ]
   },{
     "date": "2018-12-30",
     "image": [
-      {
-        "path": "images/day154.jpg"
-      }
+      { "path": "images/day154.jpg" }
     ]
   },
   {
@@ -25,9 +26,7 @@
   {
     "date": "2018-12-27",
     "image": [
-      {
-        "path": "images/day151.jpg"
-      }
+      { "path": "images/day151.jpg" }
     ]
   },{
     "date": "2018-12-26",
@@ -37,16 +36,12 @@
   },{
     "date": "2018-12-25",
     "image": [
-      {
-        "path": "images/day149.jpg"
-      }
+      { "path": "images/day149.jpg" }
     ]
   },{
     "date": "2018-12-24",
     "image": [
-      {
-        "path": "images/day148.jpg"
-      }
+      { "path": "images/day148.jpg" }
     ]
   },{
     "date": "2018-12-23",
