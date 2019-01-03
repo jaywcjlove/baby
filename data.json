@@ -1,5 +1,10 @@
 [
   {
+    "date": "2019-01-03",
+    "image": [
+      { "path": "images/day158.jpg" }
+    ]
+  },{
     "date": "2019-01-02",
     "image": [
       { "path": "images/day157.jpg" }
@@ -285,23 +290,17 @@
   },{
     "date": "2018-11-09",
     "image": [
-      {
-        "path": "images/day103.jpg"
-      }
+      { "path": "images/day103.jpg" }
     ]
   },{
     "date": "2018-11-08",
     "image": [
-      {
-        "path": "images/day102.jpg"
-      }
+      { "path": "images/day102.jpg" }
     ]
   }, {
     "date": "2018-11-07",
     "image": [
-      {
-        "path": "images/day101.jpg"
-      }
+      { "path": "images/day101.jpg" }
     ]
   },{
     "date": "2018-11-06",
@@ -317,107 +316,77 @@
   },{
     "date": "2018-11-05",
     "image": [
-      {
-        "path": "images/day99.jpg"
-      }
+      { "path": "images/day99.jpg" }
     ]
   },{
     "date": "2018-11-04",
     "image": [
-      {
-        "path": "images/day98.jpg"
-      }
+      { "path": "images/day98.jpg" }
     ]
   },{
     "date": "2018-11-03",
     "image": [
-      {
-        "path": "images/day97.jpg"
-      }
+      { "path": "images/day97.jpg" }
     ]
   },{
     "date": "2018-11-02",
     "image": [
-      {
-        "path": "images/day96.jpg"
-      }
+      { "path": "images/day96.jpg" }
     ]
   },{
     "date": "2018-11-01",
     "image": [
-      {
-        "path": "images/day95.jpg"
-      }
+      { "path": "images/day95.jpg" }
     ]
   },{
     "date": "2018-10-31",
     "image": [
-      {
-        "path": "images/day94.jpg"
-      }
+      { "path": "images/day94.jpg" }
     ]
   },{
     "date": "2018-10-30",
     "image": [
-      {
-        "path": "images/day93.jpg"
-      }
+      { "path": "images/day93.jpg" }
     ]
   },{
     "date": "2018-10-29",
     "image": [
-      {
-        "path": "images/day92.jpg"
-      }
+      { "path": "images/day92.jpg" }
     ]
   },{
     "date": "2018-10-28",
     "image": [
-      {
-        "path": "images/day91.jpg"
-      }
+      { "path": "images/day91.jpg" }
     ]
   },{
     "date": "2018-10-27",
     "image": [
-      {
-        "path": "images/day90.jpg"
-      }
+      { "path": "images/day90.jpg" }
     ]
   },{
     "date": "2018-10-26",
     "image": [
-      {
-        "path": "images/day89.jpg"
-      }
+      { "path": "images/day89.jpg" }
     ]
   },{
     "date": "2018-10-25",
     "image": [
-      {
-        "path": "images/day88.jpg"
-      }
+      { "path": "images/day88.jpg" }
     ]
   },{
     "date": "2018-10-24",
     "image": [
-      {
-        "path": "images/day87.jpg"
-      }
+      { "path": "images/day87.jpg" }
     ]
   },{
     "date": "2018-10-23",
     "image": [
-      {
-        "path": "images/day86.jpg"
-      }
+      { "path": "images/day86.jpg" }
     ]
   },{
     "date": "2018-10-22",
     "image": [
-      {
-        "path": "images/day85.jpg"
-      }
+      { "path": "images/day85.jpg" }
     ]
   },{
     "date": "2018-10-21",
@@ -431,93 +400,67 @@
   },{
     "date": "2018-10-20",
     "image": [
-      {
-        "path": "images/day83.jpg"
-      }
+      { "path": "images/day83.jpg" }
     ]
   },{
     "date": "2018-10-19",
     "image": [
-      {
-        "path": "images/day82.jpg"
-      }
+      { "path": "images/day82.jpg" }
     ]
   },{
     "date": "2018-10-18",
     "image": [
-      {
-        "path": "images/day81.jpg"
-      }
+      { "path": "images/day81.jpg" }
     ]
   },{
     "date": "2018-10-17",
     "image": [
-      {
-        "path": "images/day80.jpg"
-      }
+      { "path": "images/day80.jpg" }
     ]
   },{
     "date": "2018-10-16",
     "image": [
-      {
-        "path": "images/day79.jpg"
-      }
+      { "path": "images/day79.jpg" }
     ]
   },{
     "date": "2018-10-15",
     "image": [
-      {
-        "path": "images/day78.jpg"
-      }
+      { "path": "images/day78.jpg" }
     ]
   },{
     "date": "2018-10-14",
     "image": [
-      {
-        "path": "images/day77.jpg"
-      }
+      { "path": "images/day77.jpg" }
     ]
   },{
     "date": "2018-10-13",
     "image": [
-      {
-        "path": "images/day76.jpg"
-      }
+      { "path": "images/day76.jpg" }
     ]
   },{
     "date": "2018-10-12",
     "image": [
-      {
-        "path": "images/day75.jpg"
-      }
+      { "path": "images/day75.jpg" }
     ]
   },{
     "date": "2018-10-11",
     "image": [
-      {
-        "path": "images/day74.jpg"
-      }
+      { "path": "images/day74.jpg" }
     ]
   },{
     "date": "2018-10-10",
     "image": [
-      {
-        "path": "images/day73.jpg"
-      }
+      { "path": "images/day73.jpg" }
     ]
   },{
     "date": "2018-10-09",
     "image": [
-      {
-        "path": "images/day72.jpg"
-      }
+      { "path": "images/day72.jpg" }
     ]
   },{
     "date": "2018-10-08",
     "image": [
-      {
-        "path": "images/day71.jpg"
-      }
+      { "path": "images/day71.jpg" }
     ]
   },{
     "date": "2018-10-07",
@@ -532,58 +475,42 @@
   },{
     "date": "2018-10-06",
     "image": [
-      {
-        "path": "images/day69.jpg"
-      }
+      { "path": "images/day69.jpg" }
     ]
   },{
     "date": "2018-10-05",
     "image": [
-      {
-        "path": "images/day68.jpg"
-      }
+      { "path": "images/day68.jpg" }
     ]
   },{
     "date": "2018-10-04",
     "image": [
-      {
-        "path": "images/day67.jpg"
-      }
+      { "path": "images/day67.jpg" }
     ]
   },{
     "date": "2018-10-03",
     "image": [
-      {
-        "path": "images/day66.jpg"
-      }
+      { "path": "images/day66.jpg" }
     ]
   }, {
     "date": "2018-10-02",
     "image": [
-      {
-        "path": "images/day65.jpg"
-      }
+      { "path": "images/day65.jpg" }
     ]
   }, {
     "date": "2018-10-01",
     "image": [
-      {
-        "path": "images/day64.jpg"
-      }
+      { "path": "images/day64.jpg" }
     ]
   }, {
     "date": "2018-09-30",
     "image": [
-      {
-        "path": "images/day63.jpg"
-      }
+      { "path": "images/day63.jpg" }
     ]
   }, {
     "date": "2018-09-29",
     "image": [
-      {
-        "path": "images/day62.jpg"
-      }
+      { "path": "images/day62.jpg" }
     ]
   }, {
     "date": "2018-09-28",
@@ -599,367 +526,273 @@
   {
     "date": "2018-09-26",
     "image": [
-      {
-        "path": "images/day59.jpg"
-      }
+      { "path": "images/day59.jpg" }
     ]
   },
   {
     "date": "2018-09-25",
     "image": [
-      {
-        "path": "images/day58.jpg"
-      }
+      { "path": "images/day58.jpg" }
     ]
   },
   {
     "date": "2018-09-24",
     "image": [
-      {
-        "path": "images/day57.jpg"
-      }
+      { "path": "images/day57.jpg" }
     ]
   },
   {
     "date": "2018-09-23",
     "image": [
-      {
-        "path": "images/day56-1.jpg"
-      },
-      {
-        "path": "images/day56-2.jpg"
-      },
-      {
-        "path": "images/day56.jpg"
-      }
+      { "path": "images/day56-1.jpg" },
+      { "path": "images/day56-2.jpg" },
+      { "path": "images/day56.jpg" }
     ]
   },
   {
     "date": "2018-09-22",
     "image": [
-      {
-        "path": "images/day55.jpg"
-      }
+      { "path": "images/day55.jpg" }
     ]
   },
   {
     "date": "2018-09-21",
     "image": [
-      {
-        "path": "images/day54.jpg"
-      }
+      { "path": "images/day54.jpg" }
     ]
   },
   {
     "date": "2018-09-20",
     "image": [
-      {
-        "path": "images/day53.jpg"
-      }
+      { "path": "images/day53.jpg" }
     ]
   },
   {
     "date": "2018-09-19",
     "image": [
-      {
-        "path": "images/day52.jpg"
-      }
+      { "path": "images/day52.jpg" }
     ]
   },
   {
     "date": "2018-09-18",
     "image": [
-      {
-        "path": "images/day51.jpg"
-      }
+      { "path": "images/day51.jpg" }
     ]
   },
   {
     "date": "2018-09-17",
     "image": [
-      {
-        "path": "images/day50.jpg"
-      }
+      { "path": "images/day50.jpg" }
     ]
   },
   {
     "date": "2018-09-16",
     "image": [
-      {
-        "path": "images/day49.jpg"
-      }
+      { "path": "images/day49.jpg" }
     ]
   },
   {
     "date": "2018-09-15",
     "image": [
-      {
-        "path": "images/day48.jpg"
-      }
+      { "path": "images/day48.jpg" }
     ]
   },
   {
     "date": "2018-09-14",
     "image": [
-      {
-        "path": "images/day47.jpg"
-      }
+      { "path": "images/day47.jpg" }
     ]
   },
   {
     "date": "2018-09-13",
     "image": [
-      {
-        "path": "images/day46.jpg"
-      }
+      { "path": "images/day46.jpg" }
     ]
   },
   {
     "date": "2018-09-12",
     "image": [
-      {
-        "path": "images/day45.jpg"
-      }
+      { "path": "images/day45.jpg" }
     ]
   },
   {
     "date": "2018-09-11",
     "image": [
-      {
-        "path": "images/day44.jpg"
-      }
+      { "path": "images/day44.jpg" }
     ]
   },
   {
     "date": "2018-09-10",
     "image": [
-      {
-        "path": "images/day43.jpg"
-      }
+      { "path": "images/day43.jpg" }
     ]
   },
   {
     "date": "2018-09-09",
     "image": [
-      {
-        "path": "images/day42.jpg"
-      }
+      { "path": "images/day42.jpg" }
     ]
   },
   {
     "date": "2018-09-08",
     "image": [
-      {
-        "path": "images/day41.jpg"
-      }
+      { "path": "images/day41.jpg" }
     ]
   },
   {
     "date": "2018-09-07",
     "image": [
-      {
-        "path": "images/day40.jpg"
-      }
+      { "path": "images/day40.jpg" }
     ]
   },
   {
     "date": "2018-09-06",
     "image": [
-      {
-        "path": "images/day39.jpg"
-      }
+      { "path": "images/day39.jpg" }
     ]
   },
   {
     "date": "2018-09-05",
     "image": [
-      {
-        "path": "images/day38.jpg"
-      }
+      { "path": "images/day38.jpg" }
     ]
   },
   {
     "date": "2018-09-04",
     "image": [
-      {
-        "path": "images/day37.jpg"
-      }
+      { "path": "images/day37.jpg" }
     ]
   },
   {
     "date": "2018-09-03",
     "image": [
-      {
-        "path": "images/day36.jpg"
-      }
+      { "path": "images/day36.jpg" }
     ]
   },
   {
     "date": "2018-09-02",
     "image": [
-      {
-        "path": "images/day35.jpg"
-      }
+      { "path": "images/day35.jpg" }
     ]
   },
   {
     "date": "2018-09-01",
     "image": [
-      {
-        "path": "images/day34.jpg"
-      }
+      { "path": "images/day34.jpg" }
     ]
   },
   {
     "date": "2018-08-31",
     "image": [
-      {
-        "path": "images/day33.jpg"
-      }
+      { "path": "images/day33.jpg" }
     ]
   },
   {
     "date": "2018-08-30",
     "image": [
-      {
-        "path": "images/day32.jpg"
-      }
+      { "path": "images/day32.jpg" }
     ]
   },
   {
     "date": "2018-08-29",
     "image": [
-      {
-        "path": "images/day31.jpg"
-      }
+      { "path": "images/day31.jpg" }
     ]
   },
   {
     "date": "2018-08-28",
     "image": [
-      {
-        "path": "images/day30.jpg"
-      }
+      { "path": "images/day30.jpg" }
     ]
   },
   {
     "date": "2018-08-27",
     "image": [
-      {
-        "path": "images/day29.jpg"
-      }
+      { "path": "images/day29.jpg" }
     ]
   },
   {
     "date": "2018-08-26",
     "image": [
-      {
-        "path": "images/day28.jpg"
-      }
+      { "path": "images/day28.jpg" }
     ]
   },
   {
     "date": "2018-08-25",
     "image": [
-      {
-        "path": "images/day27.jpg"
-      }
+      { "path": "images/day27.jpg" }
     ]
   },
   {
     "date": "2018-08-24",
     "image": [
-      {
-        "path": "images/day26.jpg"
-      }
+      { "path": "images/day26.jpg" }
     ]
   },
   {
     "date": "2018-08-23",
     "image": [
-      {
-        "path": "images/day25.jpg"
-      }
+      { "path": "images/day25.jpg" }
     ]
   },
   {
     "date": "2018-08-22",
     "image": [
-      {
-        "path": "images/day24.jpg"
-      }
+      { "path": "images/day24.jpg" }
     ]
   },
   {
     "date": "2018-08-21",
     "image": [
-      {
-        "path": "images/day23.jpg"
-      }
+      { "path": "images/day23.jpg" }
     ]
   },
   {
     "date": "2018-08-20",
     "image": [
-      {
-        "path": "images/day22.jpg"
-      }
+      { "path": "images/day22.jpg" }
     ]
   },
   {
     "date": "2018-08-19",
     "image": [
-      {
-        "path": "images/day21.jpg"
-      }
+      { "path": "images/day21.jpg" }
     ]
   },
   {
     "date": "2018-08-18",
     "image": [
-      {
-        "path": "images/day20.jpg"
-      }
+      { "path": "images/day20.jpg" }
     ]
   },
   {
     "date": "2018-08-17",
     "image": [
-      {
-        "path": "images/day19.jpg"
-      }
+      { "path": "images/day19.jpg" }
     ]
   },
   {
     "date": "2018-08-16",
     "image": [
-      {
-        "path": "images/day18.jpg"
-      }
+      { "path": "images/day18.jpg" }
     ]
   },
   {
     "date": "2018-08-15",
     "image": [
-      {
-        "path": "images/day17.jpg"
-      }
+      { "path": "images/day17.jpg" }
     ]
   },
   {
     "date": "2018-08-14",
     "image": [
-      {
-        "path": "images/day16.jpg"
-      }
+      { "path": "images/day16.jpg" }
     ]
   },
   {
     "date": "2018-08-13",
     "image": [
-      {
-        "path": "images/day15.jpg"
-      }
+      { "path": "images/day15.jpg" }
     ]
   },
   {
