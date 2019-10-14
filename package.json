@@ -6,7 +6,6 @@
     "colors-cli": "^1.0.18",
     "ejs": "^2.6.1",
     "fs-extra": "^7.0.0",
-    "gh-pages": "^1.2.0",
     "html-minifier": "^3.5.20"
   },
   "scripts": {
